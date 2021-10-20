@@ -1,6 +1,6 @@
 # P-Tool
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/dr0phoenix/P-Tool/main/Screenshot.jpg" />
 <br />
 • Subdomain Finder
 <br />
@@ -11,10 +11,11 @@
 • Gmail Brute Force Attack
 <br />
 
-# Install using windows powershell
+# Install
 
+• Windows powershell
 <pre>
 <code>
-
+Invoke-WebRequest "https://raw.githubusercontent.com/dr0phoenix/P-Tool/main/main.exe" -OutFile "main.exe"
 </code>
 </pre>
