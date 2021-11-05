@@ -2,19 +2,25 @@
 
 ## Features
 • Subdomain Scanner
-<br />
+<br>
 • Port Scanner
-<br />
+<br>
 • Denial-Of-Service Attack
-<br />
+<br>
 • Directory Brute Force
-<br />
+<br>
 • Geo IP Lookup
-<br />
+<br>
 • Hash Cracker
-<br />
+<br>
 • Admin Finder
-<br />
+<br>
+
+<h3><b>📸 Screenshot</b></h3>
+<br>
+<img src="https://github.com/dr0phoenix/P-Tool/blob/main/screenshot.png?raw=true">
+<br>
+<br>
 
 
 # Install
