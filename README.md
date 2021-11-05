@@ -1,19 +1,13 @@
 # P-Tool
 
 ## Features
-• Subdomain Scanner
-<br>
-• Port Scanner
-<br>
-• Denial-Of-Service Attack
-<br>
-• Directory Brute Force
-<br>
-• Geo IP Lookup
-<br>
-• Hash Cracker
-<br>
-• Admin Finder
+<b><li>Subdomain Scanner</b></li>
+<b><li>Port Scanner</b></li>
+<b><li>Denial-Of-Service Attack</b></li>
+<b><li>Directory Brute Force</b></li>
+<b><li>Geo IP Lookup</b></li>
+<b><li>Hash Cracker</b></li>
+<b><li>Admin Finder</b></li>
 <br>
 
 <h3><b>📸 Screenshot</b></h3>
@@ -25,14 +19,14 @@
 
 # Install
 
-• Windows powershell
+<b><li>Windows powershell</b></li>
 <pre>
 <code>
 Invoke-WebRequest "https://raw.githubusercontent.com/dr0phoenix/P-Tool/main/main.exe" -OutFile "main.exe"
 </code>
 </pre>
 
-• Linux Terminal
+<b><li>Linux Terminal</b></li>
 <pre>
 <code>
 git clone https://github.com/dr0phoenix/P-Tool.git
