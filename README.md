@@ -18,13 +18,6 @@
 
 # Install
 
-<b><li>Windows powershell</b></li>
-<pre>
-<code>
-Invoke-WebRequest "https://raw.githubusercontent.com/dr0phoenix/P-Tool/main/main.exe" -OutFile "main.exe"
-</code>
-</pre>
-
 <b><li>Linux Terminal</b></li>
 <pre>
 <code>
